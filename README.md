@@ -14,3 +14,4 @@ CMake build scripts for cross compiling PCL 1.8.1 and its dependencies for Andro
     
     replace pcl and boost
     $make
+pre-compiled library: https://sourceforge.net/projects/pcl-android/
